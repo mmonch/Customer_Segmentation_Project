@@ -1,4 +1,6 @@
-# Project Name
+# SwissExpress Card Customer Segments
+
+Who are our costumers and how can we tailor our marketing campaigns to each customer segment?
 
 example image:
 
@@ -6,33 +8,28 @@ example image:
 ![alternative text](reports/img/pic01.jpg)
 
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project. Limit to a short paragraph, 3-6 Sentences)
+This is a project to find out the most useful customer segmentation to improve the marketing campaigns of the credit card company.
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
+* [SIT Academy]
 * Website for partner
 * Partner contact: [Name of Contact]
-* If you do not have a partner leave this section out
 
 ### Methods Used
 * Inferential Statistics
 * Machine Learning
 * Data Visualization
-* Predictive Modeling
+* Cluster Analysis
 * etc.
 
 ### Technologies
-* R
 * Python
-* D3
-* PostGres, MySql
 * Pandas, jupyter
-* HTML
-* JavaScript
-* etc.
+* PyCaret
+* Sklearn
 
 ## Project Description
 (Provide more detailed overview of the project.
@@ -44,9 +41,7 @@ Feel free to number or bullet point things here)
 ## Getting Started
 
 1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
+2. Raw Data is confidential and therefore is not available in this repo.
 
 3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
 4. etc...
@@ -64,9 +59,5 @@ create another "setup.md" file and link to it here*
 
 ## Contributing Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])**
-
-#### Other Members:
-
- - [Full Name](https://github.com/[github handle])
- - [Full Name](https://github.com/[github handle])
+[Marlies Monch](https://github.com/[github handle])**
+[Sibel Yasemin Özgan](https://github.com/sibelyozgan)**
