@@ -3,11 +3,11 @@
 
 # Summary
 
-** Motivation:** The principal aim is to find valuable patterns among customers by investigating credit card transaction data
-** Goal:** The goal is to separate users to meaningful segments
-** What we propose:** We used cluster analyses and used two different approaches for that. The first approach uses scikit-learn pipelines to evaluate the possible clustering methods. The second approach uses PyCaret - an open-source, low-code machine learning method - that automizes the model making approach.
-** Next Steps:** The customer clusters created are useful to predict which segment a given customer belongs to. This is useful to tailer focus and marketing.
-** Structure of the document:** The report summarizes the approach. The steps in detail for each approach can be found in the related notebook.
+* **Motivation:** The principal aim is to find valuable patterns among customers by investigating credit card transaction data
+* **Goal:** The goal is to separate users to meaningful segments
+**What we propose:** We used cluster analyses and used two different approaches for that. The first approach uses scikit-learn pipelines to evaluate the possible clustering methods. The second approach uses PyCaret - an open-source, low-code machine learning method - that automizes the model making approach.
+**Next Steps:** The customer clusters created are useful to predict which segment a given customer belongs to. This is useful to tailer focus and marketing.
+**Structure of the document:** The report summarizes the approach. The steps in detail for each approach can be found in the related notebook.
 
 # Introduction
 The credit card transaction dataset contains 8500 customers and their activity over a 6-month period. Each transaction is characterized by 18 features that are briefly described below.
