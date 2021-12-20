@@ -131,38 +131,38 @@ After we have the Clusters and separations between our customers, we need to def
 **Cluster 0**
 New customers (low tenures) who have a low balance and cash advance are segmented in this cluster. The credit card provider might encourage them to increase their activity by offering cash backs, promotions, temporary memberships in streaming platforms such as Netflix or Spotify
 
-![img](img/PLOTS/balance_account.png)
-![img](img/PLOTS/nr_cash_advances.png)
+![img](img/PLOTS/BAR/balance_account.png)
+![img](img/PLOTS/BAR/nr_cash_advances.png)
 
 **Cluster 1**
 Customers who have high balances and cash advances and one of the lowest purchase frequencies and percentages of full payments are in this cluster. This indicates that they are one of the most lucrative segments for the credit card provider. They are typically known as revolvers who might be using their credit card’s as a loan.
 A revolver is a credit card issuer term for customers who carry balances, paying off those balances over time, thus “revolving” them. The opposite of the revolver is the “transactor” — people who pay their credit card balances each month, avoiding interest charges.* revolver
 
-![img](img/PLOTS/full_purchases_by_purchases_amount_scatterplot.png)
-![img](img/PLOTS/full_purchases_frequency.png)
-![img](img/PLOTS/cash_advance_frequency_by_paid_advance.png)
+![img](img/PLOTS/SCATTER/full_purchases_by_purchases_amount_scatterplot.png)
+![img](img/PLOTS/BAR/full_purchases_frequency.png)
+![img](img/PLOTS/SCATTER/cash_advance_frequency_by_paid_advance.png)
 
 
 Cluster 2 
 These customers have lowest balance and cash advances. Yet, they have a fairly high percentage of full payments. These customers are known as transactors. It might be a good idea to give them even more installment options, so that they are encouraged to purchase more.
 In the credit card world, a transactor is a cardholder who transacts — that is, makes purchases with a credit card — but does not carry a balance and therefore pays no interest charges. The derisive term in the industry for transactor is “deadbeat.” The counterpart of a transactor is a “revolver” — one who uses the card and carries a balance, incurring interest charges. transactor
 
-![img](img/PLOTS/full_payment_prc_barplot.png)
+![img](img/PLOTS/BAR/full_payment_prc_barplot.png)
 
 
 Cluster 3 
 These are the moderate spenders. This group might be enticed to make more purchases by increasing their credit limit. This group is similar to the other deadbeats but different in that they are making purchases with credit card. In brief, this group isn’t as interesting to focus on.
 You could give them more installment options, so that they are encouraged to purchase more.
 
-![img](img/PLOTS/min_payments.png)
+![img](img/PLOTS/BAR/min_payments.png)
 
 Cluster 4
 These are the customers with the highest credit limit and the highest percentage of full payments. These are the prime customers. By raising their credit limits even more, the credit card provider can encourage them to purchase more
 
-![img](img/PLOTS/credit_limit.png)
-![img](img/PLOTS/purchases_amount_by_payments.png)
-![img](img/PLOTS/full_payment_prc_barplot.png)
-![img](img/PLOTS/payments_by_full_purchases.png)
+![img](img/PLOTS/BAR/credit_limit.png)
+![img](img/PLOTS/SCATTER/purchases_amount_by_payments.png)
+![img](img/PLOTS/BAR/full_payment_prc_barplot.png)
+![img](img/PLOTS/SCATTER/payments_by_full_purchases.png)
 
 
 The customer clusters created are useful to predict which segment a given customer belongs to. This is useful to tailer focus and marketing.
