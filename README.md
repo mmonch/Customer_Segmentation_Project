@@ -27,7 +27,7 @@ This is a project to find out the most useful customer segmentation to improve t
 
 ## Project Description
 The credit card transaction dataset contains 8500 customers and their activity over a 6-month period. Each transaction is characterized by 18 features that are briefly described below.
-The main task was to understand customer behaviour and create meaningful segmentations to propose future marketing campaigns.  
+The main task was to understand customer behaviour and create meaningful segmentations in order to propose future marketing campaigns.  
 
 #### The features:
 
